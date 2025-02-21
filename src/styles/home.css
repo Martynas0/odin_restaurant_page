@@ -1,0 +1,23 @@
+div.home {
+    padding: 125px 0;
+    line-height: 1.5;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div.home > h2 {
+    font-size: 1.6rem;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+div.home > p:first-of-type {
+    font-size: 1.2rem;
+}
+
+div.home > p:last-of-type {
+    margin-top: 10px;
+    font-weight: 600;
+}
