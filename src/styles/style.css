@@ -59,6 +59,7 @@ nav > ul {
 }
 
 nav button {
+    letter-spacing: 3px;
     color: white;
     font-weight: 600;
     font-size: 0.9rem;

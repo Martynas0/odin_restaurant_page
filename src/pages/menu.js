@@ -1,4 +1,6 @@
 
-const greet = "Hello Console.";
+function renderPage() {
 
-export default greet;
+}
+
+export default renderPage;
