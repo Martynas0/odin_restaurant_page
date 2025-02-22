@@ -27,6 +27,7 @@ header {
     background-image: url("../images/header.jpg");
     background-size: cover;
     background-position-y: center;
+    box-shadow: 1px 2px 5px rgb(113, 113, 113);
 
     display: flex;
     align-items: end;
@@ -81,6 +82,7 @@ nav button.active {
 div#content {
     background-color: rgb(252, 252, 252);
     padding: 10px;
+    box-shadow: 1px 2px 5px rgb(113, 113, 113);
 }
 
 

@@ -11,7 +11,8 @@ import "./styles/style.css";
     nav.addEventListener("click", (e) => {
         const element = e.target.id;
         if(element === "menu") {
-            console.log("Menu");
+            clearPage();
+            renderMenu();
         }
         else if(element === "home") {
             clearPage();
